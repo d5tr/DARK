@@ -1564,3 +1564,11 @@ wp-settings.php
 wp-signup.php
 wp-trackback.php
 xmlrpc.php
+admin
+password
+superadmin
+login
+mail
+robots.txt
+singup
+singin
