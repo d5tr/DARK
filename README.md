@@ -1,9 +1,11 @@
 # DORK
 
+# Use :
 
 
-1 - google dork 
+```
+$ git clone https://github.com/d5tr/DORK.git
 
+$ cd DORK
 
-
-2 - paths 
+$ python3 DORK.py
