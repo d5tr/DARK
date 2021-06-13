@@ -1,4 +1,4 @@
-# DORK
+# DORK tool :
 
 * it's for google dork 
 * and gess path
@@ -6,7 +6,7 @@
 
 ![photo](https://github.com/d5tr/DORK/blob/main/photo_dork.png)
 
-# Installition :
+# Installition Linux :
 
 ```
 $ git clone https://github.com/d5tr/DORK.git
@@ -20,7 +20,8 @@ $ pip3 install colorama
 ```
 $ python3 DORK.py
 ```
-# Follow me 
+
+# Follow me :
 
 * [Instagram](https://instagram.com/d_5tr)
 
