@@ -15,6 +15,9 @@ $ git clone https://github.com/d5tr/DORK.git
 $ cd DORK
 ```
 ```
+$ pip3 install colorama
+```
+```
 $ python3 DORK.py
 ```
 # Follow me 
