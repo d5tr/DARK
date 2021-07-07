@@ -18,7 +18,7 @@ $ cd DORK
 $ pip3 install colorama
 ```
 ```
-$ python3 DORK.py
+$ python3 DORK-01.py
 ```
 
 # Follow me :
