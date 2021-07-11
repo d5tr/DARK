@@ -43,6 +43,24 @@ $ pip3 install colorama
 $ python3 DARK.py
 ```
 
+# TERMUX :
+
+```
+$ pkg install git
+```
+```
+$ git clone https://github.com/d5tr/DARK.git
+```
+```
+$ cd DARK
+```
+```
+$ pip3 install colorama
+```
+```
+$ python3 DARK.py
+```
+
 
 # Follow me :
 
