@@ -62,7 +62,7 @@ $ python3 DARK.py
 ```
 
 
-# Follow me :
+# Follow me 
 
 * [Instagram](https://instagram.com/d_5tr)
 
