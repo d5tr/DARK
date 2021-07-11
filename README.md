@@ -1,25 +1,48 @@
-# DORK tool :
+# DARK tool 
 
 * it's for google dork 
 * and gess path
+* and searching for subdomains
 * Don't use tool for anything illegal
 
-![photo](https://github.com/d5tr/DORK/blob/main/photo_dork.png)
+![photo](https://github.com/d5tr/DARK/blob/main/x.png)
 
-# Installition Linux :
+# Installition
+
+
+# KALI LINUX :
 
 ```
-$ git clone https://github.com/d5tr/DORK.git
+$ git clone https://github.com/d5tr/DARK.git
 ```
 ```
-$ cd DORK
+$ cd DARK
 ```
 ```
 $ pip3 install colorama
 ```
 ```
-$ python3 DORK-01.py
+$ python3 DARK.py
 ```
+
+# ISH :
+
+``` 
+$ apk add git
+```
+```
+$ git clone https://github.com/d5tr/DARK.git
+```
+```
+$ cd DARK
+```
+```
+$ pip3 install colorama
+```
+```
+$ python3 DARK.py
+```
+
 
 # Follow me :
 
