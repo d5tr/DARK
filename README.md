@@ -22,7 +22,7 @@ $ cd DARK
 $ pip3 install colorama
 ```
 ```
-$ python3 DARK.py
+$ sudo python3 Setup.py
 ```
 
 # ISH :
